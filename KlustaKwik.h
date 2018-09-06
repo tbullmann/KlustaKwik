@@ -1,9 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <fstream>
+#include <iostream>
+using namespace std;
+
 #include "param.h"
 #include "Array.h"
-#include <fstream.h>
-#include <iostream.h>
 #include <math.h>
 #include <time.h>
 #include <stdarg.h>
